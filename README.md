@@ -1,1 +1,1 @@
-Hello, I am 0x0015 or 0x15.  I do programming (mainly c++, but both higher and lower level on occasion), music (look me up on soundcloud/bandcamp), hodging my wayland-wayfire-arch-linux system to work how I like.  See (0x0015.github.io)[https://0x0015.github.io]
+Hello, I am 0x0015 or 0x15.  I do programming (mainly c++, but both higher and lower level on occasion), music (look me up on soundcloud/bandcamp), hodging my wayland-wayfire-arch-linux system to work how I like.  See https://0x0015.github.io
